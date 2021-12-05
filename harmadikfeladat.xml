@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<data>
+	<Diak name="Xavér">
+		<Neptunkod>ASDFGH</Neptunkod>
+		<SzulIdo>1999</SzulIdo>
+		<Evfolyam>3</Evfolyam>
+		<Evfolyamtars name="Pista"/>
+		<Evfolyamtars name="Bálint"/>
+	</Diak>
+	<Diak name="Dávid">
+		<Neptunkod>PSZQPH</Neptunkod>
+		<SzulIdo>1997</SzulIdo>
+		<Evfolyam>4</Evfolyam>
+		<Evfolyamtars name="Geza"/>
+		<Evfolyamtars name="Dori"/>
+	</Diak>
+	<Diak name="Adam">
+		<Neptunkod>EKFLJS</Neptunkod>
+		<SzulIdo></SzulIdo>
+		<Evfolyam>1</Evfolyam>
+		<Evfolyamtars name="Fanni"/>
+		<Evfolyamtars name="Istvan"/>
+	</Diak>
+	<Diak name="Vivi">
+		<Neptunkod>UJHTFG</Neptunkod>
+		<SzulIdo>2000</SzulIdo>
+		<Evfolyam>2</Evfolyam>
+		<Evfolyamtars name="Zalan"/>
+		<Evfolyamtars name="Kriszti"/>
+	</Diak>
+</data>
